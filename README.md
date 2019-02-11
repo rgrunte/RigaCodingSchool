@@ -1,0 +1,2 @@
+# RigaCodingSchool
+C# kurss
